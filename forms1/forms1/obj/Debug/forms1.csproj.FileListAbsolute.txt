@@ -1,0 +1,10 @@
+c:\users\andrés\documents\visual studio 2013\Projects\forms1\forms1\bin\Debug\forms1.exe.config
+c:\users\andrés\documents\visual studio 2013\Projects\forms1\forms1\bin\Debug\forms1.exe
+c:\users\andrés\documents\visual studio 2013\Projects\forms1\forms1\bin\Debug\forms1.pdb
+c:\users\andrés\documents\visual studio 2013\Projects\forms1\forms1\obj\Debug\forms1.csprojResolveAssemblyReference.cache
+c:\users\andrés\documents\visual studio 2013\Projects\forms1\forms1\obj\Debug\forms1.Form1.resources
+c:\users\andrés\documents\visual studio 2013\Projects\forms1\forms1\obj\Debug\forms1.Properties.Resources.resources
+c:\users\andrés\documents\visual studio 2013\Projects\forms1\forms1\obj\Debug\forms1.csproj.GenerateResource.Cache
+c:\users\andrés\documents\visual studio 2013\Projects\forms1\forms1\obj\Debug\forms1.exe
+c:\users\andrés\documents\visual studio 2013\Projects\forms1\forms1\obj\Debug\forms1.pdb
+C:\Users\Andrés\Documents\Visual Studio 2013\Projects\forms1\forms1\obj\Debug\forms1.Ventana2.resources
