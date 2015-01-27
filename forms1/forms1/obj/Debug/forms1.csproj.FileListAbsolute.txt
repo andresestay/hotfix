@@ -8,3 +8,6 @@ c:\users\andrés\documents\visual studio 2013\Projects\forms1\forms1\obj\Debug\f
 c:\users\andrés\documents\visual studio 2013\Projects\forms1\forms1\obj\Debug\forms1.exe
 c:\users\andrés\documents\visual studio 2013\Projects\forms1\forms1\obj\Debug\forms1.pdb
 C:\Users\Andrés\Documents\Visual Studio 2013\Projects\forms1\forms1\obj\Debug\forms1.Ventana2.resources
+C:\Users\Andrés\Documents\GitHub\hotfixFork\forms1\forms1\bin\Debug\forms1.exe.config
+C:\Users\Andrés\Documents\GitHub\hotfixFork\forms1\forms1\obj\Debug\forms1.exe
+C:\Users\Andrés\Documents\GitHub\hotfixFork\forms1\forms1\obj\Debug\forms1.pdb

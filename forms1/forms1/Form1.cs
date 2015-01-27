@@ -24,7 +24,7 @@ namespace forms1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola " + textBox1.Text , " saludo");
+            MessageBox.Show("Hola " + textBox1.Text + " :) ", " saludo");
             this.Close();
            
         }
